@@ -10683,10 +10683,10 @@ react-icons@^3.3.0:
   resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-3.3.0.tgz#09409cad23c39149e419af5c928eee6f9f456b93"
   integrity sha512-OY8yBAyww1VEro12Zbt6dZqz77zN7LXukC4oA4i4fWjxTjCbbqsPy6BrfAh7BYPtIRaTXhpoYlhdoDaT/kxdog==
 
-react-images@next:
-  version "1.0.0-alpha.3"
-  resolved "https://registry.yarnpkg.com/react-images/-/react-images-1.0.0-alpha.3.tgz#e3f47b4c08445e8dcb0c5600e9033626fecb6376"
-  integrity sha512-t9ADCt5KN4TCssLFHI29CejoXRbVxSuiprDc04IjrIOEX4FMMhWJtZNqgVKfLP6P4tVJFMqilqsRHezqY7Dk0Q==
+react-images@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-images/-/react-images-1.0.0.tgz#9dcca9e91137c9ad175ba832a965ca1141e6aea8"
+  integrity sha512-IC9cXdPRSUqqFcr9kzHKv4yQSqvJGoiiHYdzc1xQmVMomtktow+WPG7s6UDWZQLt3q8EJ59Qmg6yJYnkqWs0Jg==
   dependencies:
     a11y-focus-store "^1.0.0"
     glam "^5.0.1"
