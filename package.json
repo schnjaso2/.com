@@ -34,7 +34,7 @@
     "inquirer": "^6.2.0",
     "lodash": "^4.17.11",
     "path": "^0.12.7",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.24.0",
     "react": "next",
     "react-burger-menu": "^2.5.2",
     "react-dom": "next",
